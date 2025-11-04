@@ -39,3 +39,11 @@ Yêu cầu     : LẬP TRÌNH ỨNG DỤNG WEB trên nền linux
  - Cấu hình nginx để http://fullname.com/grafana truy cập vào grafana qua cổng 80, (dù grafana đang chạy ở port 3000)  
   
   ## CÀI ĐẶT MÔI TRƯỜNG LINUX
+  # phương án cài đặt WSL2 - utubu
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/21f7d290-44c8-410e-9062-d843d73e0e04" />
+
+  @ cập nhật utubu
+  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6fdaaae6-5e7b-4e83-8238-39758588fe1b" />
+
+
+  
