@@ -51,13 +51,13 @@ Yêu cầu     : LẬP TRÌNH ỨNG DỤNG WEB trên nền linux
 
 <img width="1664" height="769" alt="Screenshot 2025-11-05 160518" src="https://github.com/user-attachments/assets/b3ac78b6-73c6-4320-b107-82acb49316bf" />
 
-## thiết kế web phương án 4.2 
-# sử dụng phpmyadmin tạo tài khoản 
-<img width="1885" height="863" alt="image" src="https://github.com/user-attachments/assets/ae07104e-bcbf-432b-acfc-f91e6f5a48c9" />
+## thiết kế web phương án 4.1
 
-# tạo mariadb chứa dữ liệu:
+# tạo cơ sở dữ liệu
+ 
+![Uploading image.png…]()
 
-<img width="1919" height="883" alt="image" src="https://github.com/user-attachments/assets/6a09c613-faa9-4fd4-8d03-1bc837e41a17" />
+
 
 
 
