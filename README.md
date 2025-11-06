@@ -55,6 +55,11 @@ Yêu cầu     : LẬP TRÌNH ỨNG DỤNG WEB trên nền linux
 # sử dụng phpmyadmin tạo tài khoản 
 <img width="1885" height="863" alt="image" src="https://github.com/user-attachments/assets/ae07104e-bcbf-432b-acfc-f91e6f5a48c9" />
 
-# tạo file index tạo web
+# tạo mariadb chứa dữ liệu:
+
+<img width="1919" height="883" alt="image" src="https://github.com/user-attachments/assets/6a09c613-faa9-4fd4-8d03-1bc837e41a17" />
+
+
+
 
   
