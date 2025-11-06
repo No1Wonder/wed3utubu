@@ -57,6 +57,10 @@ Yêu cầu     : LẬP TRÌNH ỨNG DỤNG WEB trên nền linux
  
 ![Uploading image.png…]()
 
+## em xin phép thầy rằng là bài này em quá yếu và thiết bị của e xuất hiện quá nhiều lỗi với nahu dẫn đến hiện tại em không setup đc nodered và nginx để hiện host cho bài tập
+## em đã setup môi trường đủ nhưng do lỗi ẩn ở bt 2 hoặc những bt trước dẫn đến giờ máy em mỗi khi truy cập vào các truy cập admin đều dẫn đến màn hình xanh và không thể làm bài cũng như setup đc 
+## hiện tại 22h 6/11/2025 em vẫn đang cố kahcs phục để kịp tiến đọ mặc dù e biết sẽ ko đảm bảo hoàn thiện ạ
+
 
 
 
