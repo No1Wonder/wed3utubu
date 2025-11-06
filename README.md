@@ -1,4 +1,4 @@
-Yêu cầu     : LẬP TRÌNH ỨNG DỤNG WEB trên nền linux
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6fc86ab0-3cb9-468b-85f8-70b46302bf9b" />Yêu cầu     : LẬP TRÌNH ỨNG DỤNG WEB trên nền linux
 1. Cài đặt môi trường linux: SV chọn 1 trong các phương án
  - enable wsl: cài đặt docker desktop
  - enable wsl: cài đặt ubuntu
@@ -55,14 +55,16 @@ Yêu cầu     : LẬP TRÌNH ỨNG DỤNG WEB trên nền linux
 
 # tạo cơ sở dữ liệu
  
-![Uploading image.png…]()
+
 
 ## em xin phép thầy rằng là bài này em quá yếu và thiết bị của e xuất hiện quá nhiều lỗi với nahu dẫn đến hiện tại em không setup đc nodered và nginx để hiện host cho bài tập
 ## em đã setup môi trường đủ nhưng do lỗi ẩn ở bt 2 hoặc những bt trước dẫn đến giờ máy em mỗi khi truy cập vào các truy cập admin đều dẫn đến màn hình xanh và không thể làm bài cũng như setup đc 
 ## hiện tại 22h 6/11/2025 em vẫn đang cố kahcs phục để kịp tiến đọ mặc dù e biết sẽ ko đảm bảo hoàn thiện ạ
 ## và em ko hiểu sao mỗi khi em treo 1 lúc nodered em bị reset và ko đăng nhập tại tk mk được em cũng đang phải fix nó :< 
+![Uploading Screenshot (561).png…]()
 
 
+## em bất lực r 
 
 
 
