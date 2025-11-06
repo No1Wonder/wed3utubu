@@ -44,6 +44,17 @@ Yêu cầu     : LẬP TRÌNH ỨNG DỤNG WEB trên nền linux
 
   @ cập nhật utubu
   <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/6fdaaae6-5e7b-4e83-8238-39758588fe1b" />
+# sau khi cài đặt ta có
+<img width="666" height="193" alt="Screenshot 2025-11-05 152829" src="https://github.com/user-attachments/assets/d104af20-7e8e-46f9-bd0d-caac7f4e99c0" />
 
+# tải các extention thêm
+
+<img width="1664" height="769" alt="Screenshot 2025-11-05 160518" src="https://github.com/user-attachments/assets/b3ac78b6-73c6-4320-b107-82acb49316bf" />
+
+## thiết kế web phương án 4.2 
+# sử dụng phpmyadmin tạo tài khoản 
+<img width="1885" height="863" alt="image" src="https://github.com/user-attachments/assets/ae07104e-bcbf-432b-acfc-f91e6f5a48c9" />
+
+# tạo file index tạo web
 
   
